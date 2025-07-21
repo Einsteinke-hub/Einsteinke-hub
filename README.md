@@ -5,8 +5,6 @@ Here’s a modern, visually appealing redesign of your README/profile with bette
 # **👋 Hi, I'm Einstein Dipondo**  
 ### **Passionate Front-End Developer | Crafting Impactful Web Experiences** 🚀  
 
-![Banner](https://placehold.co/1200x400/1e293b/white?text=Building+The+Web+Of+Tomorrow)  
-*(You can replace this with a real banner image or GitHub stats)*  
 
 ---
 
@@ -54,8 +52,6 @@ I’m a **curious Front-End Developer** with a love for **software engineering**
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/254759136851) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/cfc_einsteinke?t=-7jsbr12qLLQdRyKI5-mOw&s=09) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/einstein-dipondo-13b322362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-
-*(Add your actual social links!)*  
 
 ---
 
