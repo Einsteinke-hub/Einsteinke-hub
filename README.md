@@ -1,7 +1,3 @@
-Here’s a modern, visually appealing redesign of your README/profile with better structure, emojis, and a polished layout:
-
----
-
 # **👋 Hi, I'm Einstein Dipondo**  
 ### **Passionate Front-End Developer | Crafting Impactful Web Experiences** 🚀  
 
